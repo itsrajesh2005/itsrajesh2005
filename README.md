@@ -17,27 +17,36 @@ intelligence.
 
 ## 🧰 Tech Stack
 
-**Languages**
-`Python`
+## 🛠️ Tech Stack
 
-**Backend & APIs**
-`FastAPI` `Django` `Django REST Framework` `Flask` `REST API Design` `Swagger/OpenAPI`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,sqlite,redis" />
+</p>
 
-**AI / ML / GenAI**
-`LLMs` `Prompt Engineering` `RAG & Hybrid RAG` `LangChain` `OpenClaw (Agentic AI)`
-`Federated Learning` `PyTorch` `OpenAI GPT-4 API` `Groq (Llama 3.1 / 3.3 70B)`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,langchain,docker,aws,git,github,postman,pytest" />
+</p>
 
-**Vector Search**
-`Pinecone` `BM25` `FastEmbed` `Streamlit`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
 
-**Databases**
-`PostgreSQL` `MySQL` `SQLite` `Redis`
-
-**Backend Infrastructure**
-`JWT` `OAuth2` `RBAC` `Celery` `WebSockets` `ETL` `SQLAlchemy` `Pydantic`
-
-**DevOps & Tools**
-`Docker` `AWS S3` `Git/GitHub` `CI/CD` `Postman` `Pytest`
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hybrid%20RAG-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Federated%20Learning-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/BM25-5C6BC0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-4CAF50?style=flat-square" />
+</p>
 
 ---
 
