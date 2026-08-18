@@ -22,7 +22,21 @@ intelligence.
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,docker,aws,git,github,postman,pytest,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=pytorch,docker,aws,git,github,postman,>
+
+  <!-- Thunder Client -->
+  <img src="https://www.thunderclient.com/images/thunder-icon.png"
+       width="70"
+       height="70"
+       alt="Thunder Client" />
+
+  <!-- OpenClaw -->
+  <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg"
+       width="120"
+       height="50"
+       alt="OpenClaw" />
+
+</p>pytest,numpy,pandas" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Thunder%20Client-6B57FF?style=flat-square" />
