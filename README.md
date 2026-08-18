@@ -24,6 +24,11 @@ intelligence.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,docker,aws,git,github,postman,pytest,numpy,pandas" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Thunder%20Client-6B57FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
